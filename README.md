@@ -42,7 +42,7 @@ Ao selecionar Gerenciar Disciplinas, será possível:
 
 ## Como Executar 
 1. Clone o repositório:
-git clone [https://github.com/SEU-USUARIO/UniHelper.git](https://github.com/anaclarasantos4000/UniHelper.git/)
+git clone https://github.com/anaclarasantos4000/UniHelper.git/
 2. Entre na pasta do projeto:
 cd ~/UniHelper
 3. Dê permissão aos scripts:
