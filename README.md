@@ -27,10 +27,15 @@ Criar um ambiente simples e intuitivo para organizar disciplinas, arquivos, back
 
 ## Funcionalidades
 
-- Criar uma nova disciplina.
-- Listar disciplinas cadastradas.
-- Acessar uma disciplina.
-- Exibir os arquivos existentes na disciplina.
-- Excluir uma disciplina.
-- Excluir arquivos de uma disciplina.
-- Criar automaticamente a estrutura de pastas da disciplina.
+- Gerenciar Disciplinas
+- Buscar Arquivos
+- Novo Trabalho
+- Informações do Sistema
+- Sair
+
+Ao selecionar Gerenciar Disciplinas, será possível:
+
+- Criar uma nova disciplina;
+- Acessar disciplinas;
+- Listar disciplinas;
+- Remover disciplinas;
