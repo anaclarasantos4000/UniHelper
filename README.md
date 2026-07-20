@@ -39,3 +39,14 @@ Ao selecionar Gerenciar Disciplinas, será possível:
 - Acessar disciplinas;
 - Listar disciplinas;
 - Remover disciplinas;
+
+## Como Executar 
+1. Clone o repositório:
+git clone [https://github.com/SEU-USUARIO/UniHelper.git](https://github.com/anaclarasantos4000/UniHelper.git/)
+2. Entre na pasta do projeto:
+cd ~/UniHelper
+3. Dê permissão aos scripts:
+chmod +x scripts/menu.sh
+chmod +x scripts/funcoes.sh
+4. Execute o programa:
+./scripts/menu.sh
