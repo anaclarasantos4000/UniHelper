@@ -1,6 +1,6 @@
 =========================================
-Disciplina: Banco de Dados
-Criada em: 19/07/2026 16:27
+Disciplina: Matemática Aplicada
+Criada em: 15/07/2026 18:59
 =========================================
 
 Professor:

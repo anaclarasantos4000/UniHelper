@@ -1,6 +1,6 @@
 =========================================
-Disciplina: Banco de Dados
-Criada em: 19/07/2026 16:27
+Disciplina: Gestão de Projetos
+Criada em: 19/07/2026 14:34
 =========================================
 
 Professor:

@@ -1,6 +1,6 @@
 =========================================
-Disciplina: Banco de Dados
-Criada em: 19/07/2026 16:27
+Disciplina: Redação
+Criada em: 15/07/2026 19:19
 =========================================
 
 Professor:
